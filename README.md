@@ -26,12 +26,20 @@ AOC2023/
 └── requirements.txt
 ```
 
-4. Install all the dependences
+4. Add AOC_SESSION in`.env` file
+    1. Login to <https://adventofcode.com/2023/day/2>
+    2. Inspect Element [Press F12 or Right-Click `Inspect`]
+    3. Click on `Application`
+    4. Select `Cookies`
+    5. Copy value from key `session`
+    6. Paste value into `.env`
+
+5. Install all the dependences
 ```bash
 pip install -r requirements.txt
 ```
 
-5. Run `generateFolderStructure.py`
+6. Run `generateFolderStructure.py`
 
 Windows
 ```bash
@@ -42,7 +50,7 @@ MAC OS / LINUX
 python3 generateFolderStructure.py
 ```
 
-6. Run `getQuestion.py`
+7. Run `getQuestion.py`
 
 Windows
 ```bash
