@@ -76,17 +76,29 @@ AOC2023/
 ├── requirements.txt
 ├── Day 1/
 │   ├── input.txt
-│   ├── question.md
-│   └── solution.py
+│   ├── example.txt
+│   ├── example2.txt
+│   ├── question_part1.md
+│   ├── question_part2.md
+│   └── solution_part1.py
+│   └── solution_part2.py
 ├── Day 2/
 │   ├── input.txt
-│   ├── question.md
-│   └── solution.py
+│   ├── example.txt
+│   ├── example2.txt
+│   ├── question_part1.md
+│   ├── question_part2.md
+│   └── solution_part1.py
+│   └── solution_part2.py
 ├── .
 ├── .
 ├── .
-└── Day 30/
-    ├── input.txt
-    ├── question.md
-    └── solution.py
+└── Day 25/
+│   ├── input.txt
+│   ├── example.txt
+│   ├── example2.txt
+│   ├── question_part1.md
+│   ├── question_part2.md
+│   └── solution_part1.py
+│   └── solution_part2.py
 ```
